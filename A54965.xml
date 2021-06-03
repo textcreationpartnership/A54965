@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and easy way to pay the debt due to the orphans' of London without charge either to city or country (but of great advantage to both.) Viz. that the said orphans to humbly petition the Parliament, that it may be enacted to the following (or like) intent, viz.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54965</idno><idno type="EEBO-CITATION">99829544</idno>
+  <idno type="VID">33984</idno>
+  <idno type="EEBO-PROQUEST">2240853704</idno>
+  
+            <idno type="STC">Wing P2341</idno>
+            <idno type="STC">ESTC R217901</idno>
+            <idno type="PROQUEST">99829544</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829544e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33984)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1997:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and easy way to pay the debt due to the orphans' of London without charge either to city or country (but of great advantage to both.) Viz. that the said orphans to humbly petition the Parliament, that it may be enacted to the following (or like) intent, viz.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Orphans --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Social conditions --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Poor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33984:1"/>
+            <head>A Plain and Easy Way to Pay the <hi>Debt due to the Orphans of London.</hi> WITHOUT CHARGE either to CITY or COUNTRY (But of great ADVANTAGE to both.)</head>
+            <head type="sub">
+               <hi>Viz.</hi> That the said Orphans do humbly Petition the Parliament, That it may be Enacted to the following (or like) Intent, <hi>viz.</hi>
+            </head>
+            <p n="1">I. THat there may be a Register Book kept by the Chamberlain (or <hi>&amp;c</hi>) in the <hi>Guild-Hall</hi> of <hi>London,</hi> for the Registring of all such Houses, Leases and Lands (within the Bills of Mortality) as shall be voluntarily desired by the particular Proprietors of the same (not com<g ref="char:EOLhyphen"/>pelling any one) to be registred.</p>
+            <p n="2">II. That (for preventing Frauds, <hi>&amp;c.</hi>) every Pro<g ref="char:EOLhyphen"/>prietor, desiring to have his House, <hi>&amp;c.</hi> entred into the said Register, shall first cause his Title to the same House, <hi>&amp;c.</hi> to be manifested, by describing the Sign, Street, Place, Parish, Inhabitants Name and Propri<g ref="char:EOLhyphen"/>etors Name; particularly specifying his Interest, whe<g ref="char:EOLhyphen"/>ther Free-hold or Lease-hold (and if Lea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-hold) the Free-holders Name and Place, with the Rent reserved and Term to come, in the Nature of an Abstract; which Abstract shall be delivered to the Church-Wardens of the Parish, where the House, <hi>&amp;c.</hi> lye, to the Intent to be hung up in that Parish Church, to publick View and Notice, during Four <hi>Sundays</hi> or longer: After which (no <hi>coutra</hi> Claim being in the mean Time made) the Church-Wardens shall certify the said Publication upon the said Abstract, unto the Chamberlain; for which Certifica<g ref="char:EOLhyphen"/>tion and Publication the Church-Wardens shall have, from the Proprietor, Two Shillings, for the Use of the Poor. Upon which Certificate the Chamberlain shall register the said House, <hi>&amp;c.</hi> and shall hang up the said certificated Abstract to publick View and Notice, in the said <hi>Guild-Hall,</hi> for Six or Twelve Months: After which (if no <hi>Contra</hi> Claim in the mean Time made) shall bar all other Claims; for which the Proprietor, shall pay Twenty Shillings for the Use of the Orphans.</p>
+            <p n="3">III. That a Proprietor, having thus registred his House, <hi>&amp;c.</hi> which being (for instance) worth One Hundred Pound <hi>per annum,</hi> and now wanting One Thousand Pound to purchase a Bargain or marry a Daughter, <hi>&amp;c.</hi> he, shewing his Abstract, gets the Mony, goes to <hi>Guild Hall,</hi> and hath One Thousand Pound en<g ref="char:EOLhyphen"/>tred to the Lender, as Mortagage-Mony, upon his House, <hi>&amp;c.</hi> for which he shall pay Ten Shillings, to the Use of the Orphans, and so <hi>tories quoties,</hi> There being a<g ref="char:EOLhyphen"/>bove One Hundred and Fifty Thousand Houses within the Bills of Mortality (if but One Fourth do come into Register, here is above Thirty Thousand Pound <hi>per annum</hi> (and none will stay out after one Years Experi<g ref="char:EOLhyphen"/>ence of the Advantage hereof;) by which it may ap<g ref="char:EOLhyphen"/>pear, the Orphans Debt may be paid, without Charge to City or Country, and would be an Act of great Pie<g ref="char:EOLhyphen"/>ty, Justice and Charity, and a further means to pre<g ref="char:EOLhyphen"/>vent Cheat and Knavery.</p>
+            <p>And, to make it appear to be a further particular and publick Advantage, it doth enable the Proprietors, within the Bills of Mortality, to raise a present real Security for so much ready Mony as their particular Interests are worth, without Trouble or other Ex<g ref="char:EOLhyphen"/>pence than aforesaid (it may be questioned whether the Houses, <hi>&amp;c.</hi> within the Bills of Mortality, or the other Stock and Estates of all the Inhabitants therein be of greater Value.) Upon the whole, it may be rationally judged, That here may be, Three or Four Mil<g ref="char:EOLhyphen"/>lions of Pounds equivalent to ready Mony, added to the Wealth of this Circuit, the great Benefit that Trade, Lands and Rents would receive hereby, is (without mature Meditation there on) incredible.</p>
+            <p>If the Question were asked; <hi>How shall</hi> Great Bri<g ref="char:EOLhyphen"/>tain, <hi>alone, maintain a War, and defend it self against the</hi> French King, <hi>in case he should make a Peace with the other Confederates, and turn all his Arms upon it?</hi>
+            </p>
+            <p>The Answer shall wholly respect <hi>England,</hi> for that <hi>Scotland</hi> hath most of the Provisions here suggested to be wanting in <hi>England;</hi> as a General Register (where<g ref="char:EOLhyphen"/>by Lands are there worth Twenty Four Years Purchase, and on the <hi>English</hi> Side of <hi>Tweed</hi> not Eighteen) a general Naturalization, and many other excellent Laws and Methods, to encourage Trade, Manufactury, Fishing, <hi>&amp;c.</hi>
+            </p>
+            <p>Let <hi>England</hi> have a voluntary Register of Lands, <hi>&amp;c.</hi> a general Naturalization of all Protestants: Let <hi>Eng<g ref="char:EOLhyphen"/>land</hi> but pursue all Methods that may Encourage and Encrease Shipping, and all Marine Force and Fortifi<g ref="char:EOLhyphen"/>cation in general (but not in the least to derogate from our present vigorous Assistance of the Confederates against <hi>France,</hi> by Land-Forces, yet Two Hundred good Ships of War, well paid, and duely ordered, by strict Discipline, that Fidelity, Valour and Bravery be nobly rewarded, Cowardice, Negligence and Treachery severaly punished, this may rationaly be pre<g ref="char:EOLhyphen"/>sumed to be a much more Sure, Safe and Lasting De<g ref="char:EOLhyphen"/>fence and Protection to <hi>England</hi> than Two Hundred Thousand Horse and Foot Soldiers, and would abun<g ref="char:EOLhyphen"/>dantly
+<pb facs="tcp:33984:2"/>more induce Strangers to bring their Wealth, Arts and Manufactures, and settle here among us (who being by Naturalization as free as we, finding Trade preserved free (which it ought to be as Air or Water, or as free as that Noble Constitution of the <hi>Turky-Company,</hi> worthy to be imitated, at least to far distant Countries) not hampered with Charters of Monopolies, Corporations or Patents, that generally tend to the Destruction and Driving away Trade and Traders, for where Freedom and Liberty flourish, there the Industrious and wealthy Traders delight to remain. Thus they and their Riches will be ours, their Hands ready for our common Defence and Safe<g ref="char:EOLhyphen"/>guard, to maintain our Religion, Liberties and Laws.</p>
+            <p>If every Parish in <hi>England</hi> could but be induced (at once) to advance a Three Years Poor-tax, to buy Stuff and Materials to set the poor to work, and pur<g ref="char:EOLhyphen"/>sue the excellent Laws, already made, to enforce the same, they would abundantly find their Account in it, before the Three Years end, in lessening the Poor, and thereby their future Charge: Then might Justices of the Peace, and other Officers, strictly, and to effect, exe<g ref="char:EOLhyphen"/>cute the Laws and Statutes against Beggars, idle Vaga<g ref="char:EOLhyphen"/>bonds, <hi>&amp;c.</hi> which are no better than Vermin in a Common-wealth; by the neglect whereof <hi>England</hi> is reproached, by the Practice of all other Protestant Countries in the World, where are not the tenth part of the Beggars and useless Persons that are here, neither would that vulgar Topick (<hi>of eating the Bread out of our Mouths</hi>) have any Credit (by Experience in Pra<g ref="char:EOLhyphen"/>ctice) but the contrary would abundantly be manifest<g ref="char:EOLhyphen"/>ed, for one Man makes Trade for another (<hi>to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies quo<g ref="char:EOLhyphen"/>ties</hi>) as is evident by populous Countries, Cities and Towns: Indeed where Tyranny and Slavery obtain, there is generally Poverty, Beggary, Baseness, and Lowness of Spirit among the Inhabitants, and a kind of heartlesness to Industry, as not doing it for them<g ref="char:EOLhyphen"/>selves.</p>
+            <p>Though <hi>England</hi> may have forgot the noted Tyran<g ref="char:EOLhyphen"/>nies, and many Mischiefs of <hi>Oliver</hi>'s Army, destroy<g ref="char:EOLhyphen"/>ing King, Nobility and Gentry, hectoring the Nation by Coblers and Draw-men: When the Nation could not pay them, they did pay themselves: And the later Jealousies from the <hi>Black Heath</hi> Army (yet with<g ref="char:EOLhyphen"/>out Doubt this was the Cause why many Wealthy and Useful <hi>French Refugees</hi> declined to come to <hi>England,</hi> to settle here.) <hi>England</hi>'s Militia was, before K. <hi>Charles</hi> the First's Time the only Soldiery known here, which was kept in constant Discipline and Readiness (all from Sixteen to Sixty being obliged, with Arms) to keep Peace at Home, and to serve the Wars abroad; this made the <hi>English:</hi> famed for Arms abroad and safe at Home, our Ancestors wisely considering, that these would be (<hi>Totum in toto &amp; totum in qualibet parte</hi>) Senti<g ref="char:EOLhyphen"/>nel, and defend the Nation, and could neither be in<g ref="char:EOLhyphen"/>duced to destroy the Monarchy or Church, or to en<g ref="char:EOLhyphen"/>slave their Country; the sense of their excellent Laws and Liberties would inflame their Valour, speedily to end a War with Honour, and not to prolong it, there<g ref="char:EOLhyphen"/>by to make a Trade, nor be sullen at disbanding, (as was seen in <hi>Oliver</hi>'s and the <hi>Black Heath</hi>'s mercinary Armies;) this Practice, renewed and improved by Naval Forces, would break the <hi>French</hi> King's Measures (if not his Heart.)</p>
+            <p>If were to be wished that such able Sea Commanders as are incapacitated to serve the Nation, would either qualify themselves, or that the Act for the Test were suspended, as to the Sea-Service (or at least for a Season) in manner as the <hi>Habeas Corpus</hi> Act hath been, so that all Hands might be aloft to pierce the Enemy in that most sensible Part, and seems agreeable to what his present Majesty desired in the beginning of his happy Reign. The very reason for making of that Act seems to be, to prevent a Popish Prince from putting Offi<g ref="char:EOLhyphen"/>cers of that Religion into Places of Trust, which is now ceased, the Prince being now a zealous Protestant, and a Popish one being now incapacitated by Law.</p>
+            <p>Thus <hi>England</hi>'s Naval Force would be (<hi>Decus &amp; Tu<g ref="char:EOLhyphen"/>tamen</hi>) her Glory and Protection, proclaiming and displaying <hi>England</hi>'s Honour, Power and Strength, upon our Neighbour, or more distant Shores; And might once gain give the same Command to <hi>Lewis</hi> the Fourteenth that Queen <hi>Elizabeth</hi> did to his Predecessor, <hi>Henry</hi> the Fourth (when building Ships of War) and thus peirce him in the most sensible part; Then Fo<g ref="char:EOLhyphen"/>reigners would flock in to us with their Riches, <hi>&amp;c.</hi> and Trade, Wealth and People would multiply, which are the fundamental Strength and Glory of the Nation. Our Ancestors were so sensible of the Advantage hereof, that History informs us, <hi>Edward</hi> the Third, at a publick Charge, brought over great Numbers of Strangers, and largly infranchised them. <hi>Henry</hi> the Seventh lent them great Sums of Mony Interest free. Queen <hi>Elizabeth</hi> followed the noble Examples of the Two former, whereby she became so redoubted to her Neighbours, and Safe and Beloved at Home.</p>
+            <p>Then might we Inclose, Cultivate, Manure and Im<g ref="char:EOLhyphen"/>prove many of the Waste and Forest Lands (or if need were, raise some Millions of ready Mony out of them;) thus employing or punishing the lazy Beggar and thieving Vagabond, too many of which do now shelter about such Places. Thus we might improve <hi>England</hi> to maintain four Times the People it now hath, and in far greater Plenty, and with full Employment (consequent<g ref="char:EOLhyphen"/>ly <hi>England</hi> would be four Times richer and stronger to oppose the <hi>French,</hi> &amp;c.) and the Customs, Excise and o<g ref="char:EOLhyphen"/>ther Taxes would proportionably advance to the Benifit of the Crown; and this Advancement and Promoting Industry, Frugality and Diligence would as well in<g ref="char:EOLhyphen"/>crease Sobriety, Justice and Honesty, and banish away Laziness, Vice and Debauchery, which tend first to Beggery, then to Thefts, Robberies, <hi>&amp;c.</hi> Thus would <hi>England</hi> increase in People, Riches, Manufactures, Im<g ref="char:EOLhyphen"/>provements and Trade, the most fundamental and lasting Strength of every Nation. This seems the most infallible and proper way for <hi>England</hi> (and wor<g ref="char:EOLhyphen"/>thy of so noble a Nation) to maintain War, and de<g ref="char:EOLhyphen"/>fend it self, <hi>&amp;c.</hi> (thus being, by our Naval Forces out<g ref="char:EOLhyphen"/>guarded, and safely protected,(<hi>a toto divisos orbè Bri<g ref="char:EOLhyphen"/>tannos,</hi> they walking its Rounds, is not to be approached without their Leave) while we encouraging Industry, Trade and Manufacture securely and peaceably at Home, to export to all other Nations, and bring in either Mony or other Goods we want, in Exchange. Besides all, the natural Fruits of Industry and Diligence, are Tem<g ref="char:EOLhyphen"/>perance, Honesty, Sobriety and Justice, which Divine Providence doth usually crown with Peace, Plenty and Happiness.</p>
+            <p>This short and crude Essay may be so fortunate, as to move some more able Pen (in Imitation of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> in their virtuous and thriving State, who sent to <hi>Sparta</hi> and other Cities of <hi>Greece</hi> for their Laws, <hi>&amp;c.</hi> to use as Models to frame their own by) to send to <hi>Taunton-dean, Scotland, Holland</hi> and many other Pla<g ref="char:EOLhyphen"/>ces where Registers, <hi>&amp;c.</hi> are in use, to improve and perfect this so beneficial, noble and charitable Work.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
